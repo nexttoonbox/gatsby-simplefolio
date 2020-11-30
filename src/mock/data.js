@@ -50,22 +50,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'Instagram',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'Facebook',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'Snapchat',
-      url: '',
+      url: 'https://twitter.com/nexttoonnet',
     },
   ],
 };
