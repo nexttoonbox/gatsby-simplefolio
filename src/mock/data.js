@@ -2,14 +2,14 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'NextToon', // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
+  description: 'Hi, NextToon is coming soon', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
+  title: 'Hi, NextToon is coming soon',
   name: '',
   subtitle: '',
   cta: '',
@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
+  paragraphOne: 'NextToon is improving',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://www.nexttoon.net', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -33,7 +33,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://www.nexttoon.net', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -42,7 +42,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://www.nexttoon.net', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -51,7 +51,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://www.nexttoon.net', // if no repo, the button will not show up
   },
 ];
 
