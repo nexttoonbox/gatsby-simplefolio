@@ -29,28 +29,10 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'Manga and webtoon',
+    info: 'read and follow arabic artist',
     info2: '',
-    url: '',
-    repo: 'https://www.nexttoon.net', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://www.nexttoon.net', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
+    url: 'nexttoon.net',
     repo: 'https://www.nexttoon.net', // if no repo, the button will not show up
   },
 ];
@@ -59,7 +41,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'nexttoonbox@gmail.com',
 };
 
 // FOOTER DATA
@@ -72,17 +54,17 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'codepen',
+      name: 'Instagram',
       url: '',
     },
     {
       id: nanoid(),
-      name: 'linkedin',
+      name: 'Facebook',
       url: '',
     },
     {
       id: nanoid(),
-      name: 'github',
+      name: 'Snapchat',
       url: '',
     },
   ],
@@ -90,5 +72,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
