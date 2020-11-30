@@ -15,23 +15,14 @@ export const heroData = {
   cta: '',
 };
 
-// ABOUT DATA
-export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: 'NextToon is improving',
-  paragraphTwo: 'wait for it',
-  paragraphThree: 'Just few weeks',
-  twitter: 'https://www.nexttoon.net', // if no resume, the button will not show up
-};
-
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
     title: 'Manga and webtoon',
-    info: 'read and follow arabic artist',
-    info2: '',
+    info: 'Nexttoon is a website for reading and following your faviorte arabic manga and webtoon artists',
+    info2: 'NextToon is improving and coming with new version in the next few weeks',
     url: 'nexttoon.net',
     repo: 'https://www.nexttoon.net', // if no repo, the button will not show up
   },
