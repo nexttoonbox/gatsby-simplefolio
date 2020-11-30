@@ -4,14 +4,14 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'NextToon', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Hi, NextToon is coming soon', // e.g: Welcome to my website
+  description: 'Hi, NextToon is coming soon', // e.g: Welcome to my website under maintenance
 };
 
 // HERO DATA
 export const heroData = {
-  title: 'Hi, NextToon is ',
-  name: 'coming soon',
-  subtitle: 'Site under maintenance',
+  title: 'Hi, welcome to ',
+  name: 'NextToon',
+  subtitle: 'Site is coming soon ',
   cta: '',
 };
 // ABOUT DATA
