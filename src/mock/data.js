@@ -9,9 +9,9 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hi, NextToon is coming soon',
-  name: '',
-  subtitle: '',
+  title: 'Hi, NextToon is ',
+  name: 'coming soon',
+  subtitle: 'under maintenance',
   cta: '',
 };
 
@@ -19,8 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'NextToon is improving',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphTwo: 'wait for it',
+  paragraphThree: 'Just few weeks',
   resume: 'https://www.nexttoon.net', // if no resume, the button will not show up
 };
 
