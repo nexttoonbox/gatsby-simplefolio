@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hi, NextToon is ',
   name: 'coming soon',
-  subtitle: 'under maintenance',
+  subtitle: 'Site under maintenance',
   cta: '',
 };
 
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'NextToon is improving',
   paragraphTwo: 'wait for it',
   paragraphThree: 'Just few weeks',
-  resume: 'https://www.nexttoon.net', // if no resume, the button will not show up
+  twitter: 'https://www.nexttoon.net', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
